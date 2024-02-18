@@ -15,8 +15,9 @@
 🚀 Leveraging technology to drive innovation and efficiency.
 
 📚 Constantly learning and exploring new tools and technologies.
----
+
 💻 Let's connect and build something awesome together!
+---
 <div id="badges">
   <a href="https://www.linkedin.com/in/longinus615667270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
