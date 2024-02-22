@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href="https://app.daily.dev/mines"><img src="https://api.daily.dev/devcards/v2/NPhQ9AjrtcW4sKkJGaksP.png?type=default&r=uye" width="356" alt="Longinus Chijioke's Dev Card"/></a>
 </div>
 
 ### Hi there 👋
