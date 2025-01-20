@@ -33,7 +33,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-Longinus44&style=flat-square&color=blue" alt=""/>
 
-<a href="https://app.daily.dev/mines"><img src="https://api.daily.dev/devcards/v2/NPhQ9AjrtcW4sKkJGaksP.png?type=default&r=uye" width="356" alt="Longinus Chijioke's Dev Card"/></a>
 <!--
 **Longinus44/Longinus44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
