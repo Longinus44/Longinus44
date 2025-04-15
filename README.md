@@ -6,11 +6,11 @@
 
 **About me**
 ---
-👨‍💻 Backend Developer | Node.js | TypeScript | Python 🐍
+👨‍💻 Full-Stack Developer | Node.js | React | TypeScript | Python 🐍
 
-🌟 Passionate about crafting robust and scalable backend solutions.
+🌟 crafting robust and scalable  products that live on the web.
 
-💼 Currently honing my skills in Node.js, TypeScript, and Python.
+💼 Currently honing my skills in new Technologies.
 
 🚀 Leveraging technology to drive innovation and efficiency.
 
